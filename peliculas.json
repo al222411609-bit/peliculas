@@ -1,0 +1,68 @@
+{
+  "2-12": {
+    "Drama": [
+      { "titulo": "Intensamente", "anio": 2015, "descripcion": "Las emociones de una niña viven dentro de su cabeza." },
+      { "titulo": "El rey león", "anio": 1994, "descripcion": "Un joven león debe aprender a ser rey." },
+      { "titulo": "Wonder", "anio": 2017, "descripcion": "Un niño con una diferencia facial va a la escuela por primera vez." }
+    ],
+    "Comedia": [
+      { "titulo": "Shrek", "anio": 2001, "descripcion": "Un ogro y un burro rescatan a una princesa." },
+      { "titulo": "Toy Story", "anio": 1995, "descripcion": "Los juguetes cobran vida cuando nadie los ve." },
+      { "titulo": "Mi villano favorito", "anio": 2010, "descripcion": "Un supervillano adopta a tres niñas." }
+    ],
+    "Musical": [
+      { "titulo": "Coco", "anio": 2017, "descripcion": "Un niño viaja a la Tierra de los Muertos por su pasión por la música." },
+      { "titulo": "Frozen", "anio": 2013, "descripcion": "Dos hermanas y un reino cubierto de hielo." },
+      { "titulo": "Moana", "anio": 2016, "descripcion": "Una joven navega el océano para salvar su isla." }
+    ],
+    "Crimen": [
+      { "titulo": "Zootopia", "anio": 2016, "descripcion": "Una coneja policía resuelve un misterio en una ciudad de animales." },
+      { "titulo": "Scooby-Doo", "anio": 2002, "descripcion": "La pandilla resuelve misterios sobrenaturales." },
+      { "titulo": "Los Increíbles", "anio": 2004, "descripcion": "Una familia de superhéroes detiene a un villano." }
+    ]
+  },
+  "13-17": {
+    "Drama": [
+      { "titulo": "Bajo la misma estrella", "anio": 2014, "descripcion": "Dos jóvenes se enamoran mientras enfrentan una enfermedad." },
+      { "titulo": "Talentos ocultos", "anio": 2016, "descripcion": "Tres matemáticas brillantes en la NASA." },
+      { "titulo": "Coach Carter", "anio": 2005, "descripcion": "Un entrenador exige disciplina y estudio a su equipo." }
+    ],
+    "Comedia": [
+      { "titulo": "Escuela de rock", "anio": 2003, "descripcion": "Un falso maestro forma una banda con sus alumnos." },
+      { "titulo": "Chicas pesadas", "anio": 2004, "descripcion": "Una chica nueva descubre las reglas de la preparatoria." },
+      { "titulo": "Hotel Transylvania", "anio": 2012, "descripcion": "Drácula protege a su hija de los humanos." }
+    ],
+    "Musical": [
+      { "titulo": "High School Musical", "anio": 2006, "descripcion": "Dos estudiantes audicionan para el musical escolar." },
+      { "titulo": "La La Land", "anio": 2016, "descripcion": "Una actriz y un músico persiguen sus sueños en Los Ángeles." },
+      { "titulo": "Grease", "anio": 1978, "descripcion": "Un romance de verano continúa en la preparatoria." }
+    ],
+    "Crimen": [
+      { "titulo": "Sherlock Holmes", "anio": 2009, "descripcion": "El famoso detective investiga una trama oscura." },
+      { "titulo": "Atrápame si puedes", "anio": 2002, "descripcion": "Un joven estafador es perseguido por un agente del FBI." },
+      { "titulo": "Ocean's Eleven", "anio": 2001, "descripcion": "Once ladrones planean el robo de tres casinos." }
+    ]
+  },
+  "18+": {
+    "Drama": [
+      { "titulo": "Forrest Gump", "anio": 1994, "descripcion": "La vida extraordinaria de un hombre sencillo." },
+      { "titulo": "Parásitos", "anio": 2019, "descripcion": "Dos familias de clases opuestas se entrelazan." },
+      { "titulo": "Una mente brillante", "anio": 2001, "descripcion": "La historia del matemático John Nash." }
+    ],
+    "Comedia": [
+      { "titulo": "¿Qué pasó ayer?", "anio": 2009, "descripcion": "Tres amigos tratan de recordar su despedida de soltero." },
+      { "titulo": "Superbad", "anio": 2007, "descripcion": "Dos amigos quieren una fiesta inolvidable antes de graduarse." },
+      { "titulo": "Ted", "anio": 2012, "descripcion": "Un oso de peluche vivo es el mejor amigo de un adulto." }
+    ],
+    "Musical": [
+      { "titulo": "Bohemian Rhapsody", "anio": 2018, "descripcion": "La historia de Freddie Mercury y Queen." },
+      { "titulo": "Moulin Rouge!", "anio": 2001, "descripcion": "Un poeta se enamora de una cortesana en París." },
+      { "titulo": "Chicago", "anio": 2002, "descripcion": "Fama, crimen y espectáculo en los años 20." }
+    ],
+    "Crimen": [
+      { "titulo": "The Godfather", "anio": 1972, "descripcion": "La saga de la familia mafiosa Corleone." },
+      { "titulo": "Pulp Fiction", "anio": 1994, "descripcion": "Historias entrelazadas del hampa de Los Ángeles." },
+      { "titulo": "Goodfellas", "anio": 1990, "descripcion": "El ascenso y caída de un mafioso." }
+    ]
+  }
+}
